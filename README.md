@@ -2,12 +2,12 @@
 WE Weekly Technical Office Hours Materials
 
 # Index
-* [March 27](#march-27)
-* [April 1](#april-1)
-* [April 3](#april-3)
-* [April 9](#april-9)
+* [March 27, 2020](#march-27-2020)
+* [April 1, 2020](#april-1-2020)
+* [April 3, 2020](#april-3-2020)
+* [April 9, 2020](#april-9-2020)
 
-# March 27
+# March 27, 2020
 **AGENDA:**
 * Teams Licensing options during COVID
 * Teams Clients
@@ -19,7 +19,7 @@ WE Weekly Technical Office Hours Materials
 * [Recording](https://aka.ms/WE-TechOfficeHours/2703)
 
 
-# April 1
+# April 1, 2020
 **AGENDA:**
 * Basic Networking Office 365
 * Identity & Access Management 
@@ -30,7 +30,7 @@ WE Weekly Technical Office Hours Materials
 * [Recording](https://aka.ms/WE-TechOfficeHours/0104)
 
 
-# April 3
+# April 3, 2020
 **AGENDA:**
 * Windows Virtual Desktop 
 
@@ -39,7 +39,7 @@ WE Weekly Technical Office Hours Materials
 * [Recording](https://aka.ms/WE-TechOfficeHours/0304)
 
 
-# April 9
+# April 9, 2020
 **AGENDA:**
 * Microsoft Teams Hybrid Environments
 * Interoperability with external systems 
