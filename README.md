@@ -5,6 +5,7 @@ WE Weekly Technical Office Hours Materials
 * [March 27](#march-27)
 * [April 1](#april-1)
 * [April 3](#april-3)
+* [April 9](#april-9)
 
 # March 27
 **AGENDA:**
