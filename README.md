@@ -41,8 +41,7 @@ WE Weekly Technical Office Hours Materials
 
 # April 9, 2020
 **AGENDA:**
-* Microsoft Teams Hybrid Environments
-* Interoperability with external systems 
+* Microsoft Teams interoperability with other workloads (incl. external systems & hybrid scenarios) 
 
 **MATERIALS:**
 * [Presentation](materials/April-9.pdf)
