@@ -8,6 +8,7 @@ WE Weekly Technical Office Hours Materials
 * [April 1, 2020](#april-1-2020)
 * [April 3, 2020](#april-3-2020)
 * [April 9, 2020](#april-9-2020)
+* [April 15, 2020](#april-15-2020)
 
 # March 27, 2020
 **AGENDA:**
@@ -50,3 +51,11 @@ WE Weekly Technical Office Hours Materials
 * [Recording](https://aka.ms/WE-TechOfficeHours/0904)
 
 
+# April 15, 2020
+**AGENDA:**
+* Microsoft Teams Governance
+* Security Controls and Compliance Aspects for MS Teams 
+
+**MATERIALS:**
+* [Presentation](materials/April-15.pdf)
+* [Recording](https://aka.ms/WE-TechOfficeHours/1504)
