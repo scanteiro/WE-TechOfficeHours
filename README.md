@@ -9,6 +9,7 @@ WE Weekly Technical Office Hours Materials
 * [April 3, 2020](#april-3-2020)
 * [April 9, 2020](#april-9-2020)
 * [April 15, 2020](#april-15-2020)
+* [April 17, 2020](#april-17-2020)
 
 # March 27, 2020
 **AGENDA:**
@@ -59,3 +60,12 @@ WE Weekly Technical Office Hours Materials
 **MATERIALS:**
 * [Presentation](materials/April-15.pdf)
 * [Recording](https://aka.ms/WE-TechOfficeHours/1504)
+
+# April 17, 2020
+**AGENDA:**
+* Guest & External Access in Teams
+* Skype for Business to Teams Migration
+
+**MATERIALS:**
+* [Presentation](materials/April-17.pdf)
+* [Recording](https://aka.ms/WE-TechOfficeHours/1704)
