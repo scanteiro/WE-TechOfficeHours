@@ -10,6 +10,8 @@ WE Weekly Technical Office Hours Materials
 * [April 9, 2020](#april-9-2020)
 * [April 15, 2020](#april-15-2020)
 * [April 17, 2020](#april-17-2020)
+* [April 22, 2020](#april-22-2020)
+* [April 24, 2020](#april-24-2020)
 
 # March 27, 2020
 **AGENDA:**
@@ -61,6 +63,7 @@ WE Weekly Technical Office Hours Materials
 * [Presentation](materials/April-15.pdf)
 * [Recording](https://aka.ms/WE-TechOfficeHours/1504)
 
+
 # April 17, 2020
 **AGENDA:**
 * Guest & External Access in Teams
@@ -69,3 +72,21 @@ WE Weekly Technical Office Hours Materials
 **MATERIALS:**
 * [Presentation](materials/April-17.pdf)
 * [Recording](https://aka.ms/WE-TechOfficeHours/1704)
+
+
+# April 22, 2020
+**AGENDA:**
+* How Azure Sentinel can help secure remote work
+
+**MATERIALS:**
+* [Presentation](materials/April-22.pdf)
+* [Recording](https://aka.ms/WE-TechOfficeHours/2204)
+
+
+# April 24, 2020
+**AGENDA:**
+* Secure Remote Work: threats, scenarios and best practices
+
+**MATERIALS:**
+* [Presentation](materials/April-24.pdf)
+* [Recording](https://aka.ms/WE-TechOfficeHours/2404)
