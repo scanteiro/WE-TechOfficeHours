@@ -12,6 +12,7 @@ WE Weekly Technical Office Hours Materials
 * [April 17, 2020](#april-17-2020)
 * [April 22, 2020](#april-22-2020)
 * [April 24, 2020](#april-24-2020)
+* [April 29, 2020](#april-29-2020)
 
 # March 27, 2020
 **AGENDA:**
@@ -90,3 +91,13 @@ WE Weekly Technical Office Hours Materials
 **MATERIALS:**
 * [Presentation](materials/April-24.pdf)
 * [Recording](https://aka.ms/WE-TechOfficeHours/2404)
+
+
+# April 29, 2020
+**AGENDA:**
+* Teams for Education
+* Scheduling Online Classes from Learning Management Systems
+
+**MATERIALS:**
+* [Presentation](materials/April-29.pdf)
+* [Recording](https://aka.ms/WE-TechOfficeHours/2904)
