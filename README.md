@@ -14,6 +14,7 @@ WE Weekly Technical Office Hours Materials
 * [April 24, 2020](#april-24-2020)
 * [April 29, 2020](#april-29-2020)
 * [May 6, 2020](#may-6-2020)
+* [May 8, 2020](#may-8-2020)
 
 # March 27, 2020
 **AGENDA:**
@@ -111,3 +112,13 @@ WE Weekly Technical Office Hours Materials
 **MATERIALS:**
 * [Presentation](materials/May-6.pdf)
 * [Recording](https://aka.ms/WE-TechOfficeHours/0605)
+
+
+# May 8, 2020
+**AGENDA:**
+* Remote work re-imagined using App templates 
+* Create Teams-integrated PowerApps 
+
+**MATERIALS:**
+* [Presentation](materials/May-8.pdf)
+* [Recording](https://aka.ms/WE-TechOfficeHours/0805)
