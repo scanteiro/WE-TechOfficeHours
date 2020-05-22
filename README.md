@@ -16,6 +16,7 @@ WE Weekly Technical Office Hours Materials
 * [May 6, 2020](#may-6-2020)
 * [May 8, 2020](#may-8-2020)
 * [May 15, 2020](#may-15-2020)
+* [May 22, 2020](#may-22-2020)
 
 # March 27, 2020
 **AGENDA:**
@@ -132,3 +133,12 @@ WE Weekly Technical Office Hours Materials
 **MATERIALS:**
 * [Presentation](materials/May-15.pdf)
 * [Recording](https://aka.ms/WE-TechOfficeHours/1505)
+
+
+# May 22, 2020
+**AGENDA:**
+* Securing Teams –  A Practical Approach 
+
+**MATERIALS:**
+* [Presentation](materials/May-22.pdf)
+* [Recording](https://aka.ms/WE-TechOfficeHours/2205)
