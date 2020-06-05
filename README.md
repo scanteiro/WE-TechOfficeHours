@@ -18,6 +18,7 @@ WE Weekly Technical Office Hours Materials
 * [May 15, 2020](#may-15-2020)
 * [May 22, 2020](#may-22-2020)
 * [May 29, 2020](#may-22-2020)
+* [June 5, 2020](#June-5-2020)
 
 # March 27, 2020
 **AGENDA:**
@@ -144,6 +145,7 @@ WE Weekly Technical Office Hours Materials
 * [Presentation](materials/May-22.pdf)
 * [Recording](https://aka.ms/WE-TechOfficeHours/2205)
 
+
 # May 29, 2020
 **AGENDA:**
 * The Journey to Passwordless
@@ -151,3 +153,12 @@ WE Weekly Technical Office Hours Materials
 **MATERIALS:**
 * [Presentation](materials/May-29.pdf)
 * [Recording](https://aka.ms/WE-TechOfficeHours/2905)
+
+
+# June 5, 2020
+**AGENDA:**
+* Microsoft Phone System, Cloud Voice & Meetings 
+
+**MATERIALS:**
+* [Presentation](materials/June-5.pdf)
+* [Recording](https://aka.ms/WE-TechOfficeHours/0506)
