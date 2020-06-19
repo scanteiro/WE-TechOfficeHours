@@ -19,6 +19,8 @@ WE Weekly Technical Office Hours Materials
 * [May 22, 2020](#may-22-2020)
 * [May 29, 2020](#may-22-2020)
 * [June 5, 2020](#June-5-2020)
+* [June 12, 2020](#June-12-2020)
+* [June 19, 2020](#June-19-2020)
 
 # March 27, 2020
 **AGENDA:**
@@ -162,3 +164,20 @@ WE Weekly Technical Office Hours Materials
 **MATERIALS:**
 * [Presentation](materials/June-5.pdf)
 * [Recording](https://aka.ms/WE-TechOfficeHours/0506)
+
+
+# June 12, 2020
+**AGENDA:**
+* Accessibility in the Modern Workplace
+
+**MATERIALS:**
+* [Recording](https://aka.ms/WE-TechOfficeHours/1206)
+
+
+# June 19, 2020
+**AGENDA:**
+* Modern Devices and Device Management  
+
+**MATERIALS:**
+* [Presentation](materials/June-19.pdf)
+* [Recording](https://aka.ms/WE-TechOfficeHours/1906)
