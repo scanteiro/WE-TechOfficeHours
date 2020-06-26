@@ -21,6 +21,7 @@ WE Weekly Technical Office Hours Materials
 * [June 5, 2020](#June-5-2020)
 * [June 12, 2020](#June-12-2020)
 * [June 19, 2020](#June-19-2020)
+* [June 26, 2020](#June-26-2020)
 
 # March 27, 2020
 **AGENDA:**
@@ -181,3 +182,13 @@ WE Weekly Technical Office Hours Materials
 **MATERIALS:**
 * [Presentation](materials/June-19.pdf)
 * [Recording](https://aka.ms/WE-TechOfficeHours/1906)
+
+
+# June 26, 2020
+**AGENDA:**
+* Partner Technical Presales and Deployment Services  
+* STARBUSTER Program
+
+**MATERIALS:**
+* [Presentation](materials/June-26.pdf)
+* [Recording](https://aka.ms/WE-TechOfficeHours/2606)
