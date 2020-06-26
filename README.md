@@ -1,7 +1,7 @@
 # WE-TechOfficeHours
 WE Weekly Technical Office Hours Materials
 
-*(note: in order to access the links, you will need to download the presentations)*
+*(note: in order to access any links within a presentation, you will need to download the presentation itself)*
 
 # Index
 * [March 27, 2020](#march-27-2020)
